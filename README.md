@@ -9,10 +9,10 @@
 
 ## 👥 Autorzy / Authors / Автори
 
-1.  **Uladzislau Vilchuk** (vladvilchuk1@gmail.com)
-2.  **Andrii Shevchenko** (andrzejszewczenko27.08.2007@gmail.com)
-3.  **Nazar Haievskyj** (49203@office.upsl.edu.pl)
-4.  **Daniil Zubkov** (zubkovdaniil86@gmail.com)
+1.  **Uladzislau Vilchuk**
+2.  **Andrii Shevchenko**
+3.  **Nazar Haievskyj** (Kontakt / Contact: `49203@office.upsl.edu.pl`)
+4.  **Daniil Zubkov**
 
 ---
 
@@ -44,24 +44,24 @@ The aim of this project was to analyze the spatial and temporal variability of t
 
 ### 🇬🇧 ENGLISH
 **ALL RIGHTS RESERVED.**
-This repository, code, PDF report, and presentation are the intellectual property of the authors listed above.
+This repository, code, PDF report, presentation, and **all generated visualizations** are the intellectual property of the authors listed above.
 
-1.  **Educational Use:** This code is published solely for educational verification and portfolio demonstration.
-2.  **Strict Prohibition:** Public display, reproduction, or use of this work for marketing purposes (including university stands, conferences, or promotional materials) is **STRICTLY PROHIBITED** without the explicit **written consent** of **ALL** co-authors.
-3.  **Permission:** To obtain permission for usage, please contact the authors via email provided above.
+1.  **Data Disclaimer:** Raw data originates from Bank Danych Lokalnych (BDL GUS) and is public. However, **all processed charts, generated tables, custom visualizations, and the source code** creating them are the exclusive intellectual property of the authors.
+2.  **Strict Prohibition:** Public display, reproduction, or use of these materials **in whole or in part** (in particular charts, tables, and analysis results) for marketing purposes (including university stands, conferences, or promotional materials) is **STRICTLY PROHIBITED** without the explicit **written consent** of **ALL** co-authors.
+3.  **Permission:** To obtain permission for usage, please contact the corresponding author via email provided above.
 
 ### 🇵🇱 POLSKI
 **WSZELKIE PRAWA ZASTRZEŻONE.**
-To repozytorium, kod, raport PDF oraz prezentacja stanowią wyłączną własność intelektualną autorów.
+To repozytorium, kod, raport PDF, prezentacja oraz **wszystkie wygenerowane wizualizacje** stanowią wyłączną własność intelektualną autorów.
 
-1.  **Cel edukacyjny:** Kod udostępniony wyłącznie w celach weryfikacji edukacyjnej oraz jako portfolio.
-2.  **Zakaz użycia:** Publiczne prezentowanie, powielanie lub wykorzystywanie tej pracy do celów marketingowych (w tym na stoiskach uczelnianych, konferencjach lub w materiałach promocyjnych) jest **SUROWO ZABRONIONE** bez wyraźnej, **pisemnej zgody WSZYSTKICH** współautorów.
-3.  **Zgoda:** W celu uzyskania pozwolenia na wykorzystanie pracy należy skontaktować się z autorami drogą mailową.
+1.  **Zastrzeżenie dotyczące danych:** Surowe dane pochodzą z Banku Danych Lokalnych (BDL GUS) i są publicznie dostępne. Natomiast **wszystkie przetworzone wykresy, autorskie zestawienia tabelaryczne, kod źródłowy oraz wizualizacje** są wyłączną własnością intelektualną autorów i podlegają ochronie.
+2.  **Zakaz użycia:** Publiczne prezentowanie, powielanie lub wykorzystywanie tych materiałów **w całości lub w części** (a w szczególności wykresów, tabel i wyników analiz) do celów marketingowych (w tym na stoiskach uczelnianych, konferencjach lub w materiałach promocyjnych) jest **SUROWO ZABRONIONE** bez wyraźnej, **pisemnej zgody WSZYSTKICH** współautorów.
+3.  **Zgoda:** W celu uzyskania pozwolenia na wykorzystanie pracy należy skontaktować się z autorem korespondencyjnym drogą mailową.
 
 ### 🇺🇦 УКРАЇНСЬКА
 **ВСІ ПРАВА ЗАХИЩЕНО.**
-Цей репозиторій, код, PDF-звіт та презентація є інтелектуальною власністю авторів.
+Цей репозиторій, код, PDF-звіт, презентація та **всі згенеровані візуалізації** є інтелектуальною власністю авторів.
 
-1.  **Освітня мета:** Код опубліковано виключно для освітньої верифікації та демонстрації портфоліо.
-2.  **Заборона використання:** Публічний показ, відтворення або використання цієї роботи в маркетингових цілях (включаючи університетські стенди, конференції або промо-матеріали) **СУВОРО ЗАБОРОНЕНО** без чіткої **письмової згоди ВСІХ** співавторів.
-3.  **Дозвіл:** Для отримання дозволу на використання роботи, будь ласка, зв'яжіться з авторами через вказану електронну пошту.
+1.  **Застереження щодо даних:** Сирі дані походять з Bank Danych Lokalnych (BDL GUS) і є публічними. Однак **усі оброблені графіки, авторські таблиці, вихідний код та візуалізації** є виключною інтелектуальною власністю авторів і підлягають захисту.
+2.  **Заборона використання:** Публічний показ, відтворення або використання цих матеріалів **повністю або частково** (зокрема графіків, таблиць та результатів аналізу) в маркетингових цілях (включаючи університетські стенди, конференції або промо-матеріали) **СУВОРО ЗАБОРОНЕНО** без чіткої **письмової згоди ВСІХ** співавторів.
+3.  **Дозвіл:** Для отримання дозволу на використання роботи, будь ласка, зв'яжіться з відповідальним автором через вказану електронну пошту.
