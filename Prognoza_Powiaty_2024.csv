@@ -1,0 +1,381 @@
+﻿Kod;Nazwa;Rzeczywiste_2023;Prognoza_2024;Zmiana_Proc;Status
+201000;Powiat bolesławiecki;151852.0;150712;-0.75;Spadek
+202000;Powiat dzierżoniowski;113831.0;107352;-5.69;Spadek
+203000;Powiat głogowski;43217.0;48133;11.38;Wzrost
+204000;Powiat górowski;0.0;0;;Spadek
+205000;Powiat jaworski;46987.0;45858;-2.4;Spadek
+206000;Powiat karkonoski;2906706.0;3062438;5.36;Wzrost
+207000;Powiat kamiennogórski;26541.0;27442;3.39;Wzrost
+208000;Powiat kłodzki;2018706.0;2013011;-0.28;Spadek
+209000;Powiat legnicki;59823.0;61407;2.65;Wzrost
+210000;Powiat lubański;845576.0;825927;-2.32;Spadek
+211000;Powiat lubiński;79134.0;65163;-17.65;Spadek
+212000;Powiat lwówecki;48979.0;51756;5.67;Wzrost
+213000;Powiat milicki;55555.0;50501;-9.1;Spadek
+214000;Powiat oleśnicki;66215.0;66527;0.47;Wzrost
+215000;Powiat oławski;64375.0;54119;-15.93;Spadek
+216000;Powiat polkowicki;0.0;2265;inf;Wzrost
+217000;Powiat strzeliński;1609.0;2606;61.96;Wzrost
+218000;Powiat średzki;12853.0;3254;-74.68;Spadek
+219000;Powiat świdnicki;170792.0;182768;7.01;Wzrost
+220000;Powiat trzebnicki;41398.0;45105;8.95;Wzrost
+221000;Powiat wałbrzyski;272582.0;277266;1.72;Wzrost
+222000;Powiat wołowski;10014.0;9223;-7.9;Spadek
+223000;Powiat wrocławski;261582.0;267828;2.39;Wzrost
+224000;Powiat ząbkowicki;85187.0;76956;-9.66;Spadek
+225000;Powiat zgorzelecki;92577.0;83893;-9.38;Spadek
+226000;Powiat złotoryjski;34353.0;25518;-25.72;Spadek
+261000;Powiat m. Jelenia Góra;548605.0;514554;-6.21;Spadek
+262000;Powiat m. Legnica;170475.0;170930;0.27;Wzrost
+264000;Powiat m. Wrocław;2224212.0;2203393;-0.94;Spadek
+265000;Powiat m. Wałbrzych od 2013;115033.0;99053;-13.89;Spadek
+401000;Powiat aleksandrowski;1404454.0;1310002;-6.73;Spadek
+402000;Powiat brodnicki;107150.0;121133;13.05;Wzrost
+403000;Powiat bydgoski;114937.0;110475;-3.88;Spadek
+404000;Powiat chełmiński;13391.0;12152;-9.25;Spadek
+405000;Powiat golubsko-dobrzyński;48963.0;48343;-1.27;Spadek
+406000;Powiat grudziądzki;11089.0;12144;9.51;Wzrost
+407000;Powiat inowrocławski;679960.0;634345;-6.71;Spadek
+408000;Powiat lipnowski;23303.0;20832;-10.6;Spadek
+409000;Powiat mogileński;21144.0;21456;1.48;Wzrost
+410000;Powiat nakielski;32390.0;31922;-1.44;Spadek
+411000;Powiat radziejowski;7998.0;10921;36.55;Wzrost
+412000;Powiat rypiński;7112.0;5402;-24.04;Spadek
+413000;Powiat sępoleński;22603.0;22625;0.1;Wzrost
+414000;Powiat świecki;81895.0;75515;-7.79;Spadek
+415000;Powiat toruński;93970.0;93942;-0.03;Spadek
+416000;Powiat tucholski;96390.0;98358;2.04;Wzrost
+417000;Powiat wąbrzeski;12112.0;14770;21.95;Wzrost
+418000;Powiat włocławski;392652.0;385688;-1.77;Spadek
+419000;Powiat żniński;196602.0;201919;2.7;Wzrost
+461000;Powiat m. Bydgoszcz;548134.0;545904;-0.41;Spadek
+462000;Powiat m. Grudziądz;108356.0;108792;0.4;Wzrost
+463000;Powiat m. Toruń;556288.0;559165;0.52;Wzrost
+464000;Powiat m. Włocławek;82949.0;81756;-1.44;Spadek
+601000;Powiat bialski;160056.0;164867;3.01;Wzrost
+602000;Powiat biłgorajski;22117.0;23516;6.33;Wzrost
+603000;Powiat chełmski;12507.0;13725;9.74;Wzrost
+604000;Powiat hrubieszowski;31987.0;30436;-4.85;Spadek
+605000;Powiat janowski;37583.0;38721;3.03;Wzrost
+606000;Powiat krasnostawski;15182.0;15511;2.17;Wzrost
+607000;Powiat kraśnicki;0.0;2354;inf;Wzrost
+608000;Powiat lubartowski;36496.0;37106;1.67;Wzrost
+609000;Powiat lubelski;95441.0;98048;2.73;Wzrost
+610000;Powiat łęczyński;13185.0;12990;-1.48;Spadek
+611000;Powiat łukowski;0.0;6512;inf;Wzrost
+612000;Powiat opolski;30038.0;31473;4.78;Wzrost
+613000;Powiat parczewski;23177.0;23628;1.95;Wzrost
+614000;Powiat puławski;609378.0;642693;5.47;Wzrost
+615000;Powiat radzyński;5006.0;5487;9.61;Wzrost
+616000;Powiat rycki;10036.0;5548;-44.72;Spadek
+617000;Powiat świdnicki;27066.0;27151;0.31;Wzrost
+618000;Powiat tomaszowski;76282.0;83694;9.72;Wzrost
+619000;Powiat włodawski;80250.0;88921;10.8;Wzrost
+620000;Powiat zamojski;192849.0;202898;5.21;Wzrost
+661000;Powiat m. Biała Podlaska;57236.0;53651;-6.26;Spadek
+662000;Powiat m. Chełm;58427.0;60037;2.76;Wzrost
+663000;Powiat m. Lublin;671647.0;687979;2.43;Wzrost
+664000;Powiat m. Zamość;121813.0;125340;2.9;Wzrost
+801000;Powiat gorzowski;56061.0;54788;-2.27;Spadek
+802000;Powiat krośnieński;32569.0;31615;-2.93;Spadek
+803000;Powiat międzyrzecki;101764.0;111531;9.6;Wzrost
+804000;Powiat nowosolski;63455.0;63549;0.15;Wzrost
+805000;Powiat słubicki;267940.0;257729;-3.81;Spadek
+806000;Powiat strzelecko-drezdenecki;94936.0;104005;9.55;Wzrost
+807000;Powiat sulęciński;87137.0;99822;14.56;Wzrost
+808000;Powiat świebodziński;199788.0;214753;7.49;Wzrost
+809000;Powiat zielonogórski;50142.0;54485;8.66;Wzrost
+810000;Powiat żagański;18570.0;19009;2.36;Wzrost
+811000;Powiat żarski;54299.0;51153;-5.79;Spadek
+812000;Powiat wschowski;86467.0;108726;25.74;Wzrost
+861000;Powiat m. Gorzów Wielkopolski;114742.0;111803;-2.56;Spadek
+862000;Powiat m. Zielona Góra;135605.0;136269;0.49;Wzrost
+1001000;Powiat bełchatowski;99686.0;100213;0.53;Wzrost
+1002000;Powiat kutnowski;43651.0;41720;-4.42;Spadek
+1003000;Powiat łaski;34508.0;34389;-0.34;Spadek
+1004000;Powiat łęczycki;0.0;437;inf;Wzrost
+1005000;Powiat łowicki;37924.0;35025;-7.64;Spadek
+1006000;Powiat łódzki wschodni;21322.0;23841;11.81;Wzrost
+1007000;Powiat opoczyński;14085.0;14792;5.02;Wzrost
+1008000;Powiat pabianicki;148464.0;153099;3.12;Wzrost
+1009000;Powiat pajęczański;28609.0;30207;5.59;Wzrost
+1010000;Powiat piotrkowski;135765.0;127885;-5.8;Spadek
+1011000;Powiat poddębicki;190602.0;199244;4.53;Wzrost
+1012000;Powiat radomszczański;53617.0;55118;2.8;Wzrost
+1013000;Powiat rawski;42097.0;47068;11.81;Wzrost
+1014000;Powiat sieradzki;89042.0;72678;-18.38;Spadek
+1015000;Powiat skierniewicki;7938.0;7131;-10.17;Spadek
+1016000;Powiat tomaszowski;202993.0;213668;5.26;Wzrost
+1017000;Powiat wieluński;84352.0;100017;18.57;Wzrost
+1018000;Powiat wieruszowski;11770.0;9601;-18.43;Spadek
+1019000;Powiat zduńskowolski;26146.0;27835;6.46;Wzrost
+1020000;Powiat zgierski;117940.0;116260;-1.42;Spadek
+1021000;Powiat brzeziński;17581.0;19295;9.75;Wzrost
+1061000;Powiat m. Łódź;1054588.0;1046037;-0.81;Spadek
+1062000;Powiat m. Piotrków Trybunalski;37387.0;57984;55.09;Wzrost
+1063000;Powiat m. Skierniewice;0.0;126;inf;Wzrost
+1201000;Powiat bocheński;85616.0;85112;-0.59;Spadek
+1202000;Powiat brzeski;0.0;10593;inf;Wzrost
+1203000;Powiat chrzanowski;8965.0;8189;-8.66;Spadek
+1204000;Powiat dąbrowski;0.0;5675;inf;Wzrost
+1205000;Powiat gorlicki;236971.0;245637;3.66;Wzrost
+1206000;Powiat krakowski;361813.0;367525;1.58;Wzrost
+1207000;Powiat limanowski;93715.0;95788;2.21;Wzrost
+1208000;Powiat miechowski;65537.0;64102;-2.19;Spadek
+1209000;Powiat myślenicki;81787.0;86430;5.68;Wzrost
+1210000;Powiat nowosądecki;2064929.0;2083630;0.91;Wzrost
+1211000;Powiat nowotarski;1116366.0;1124976;0.77;Wzrost
+1212000;Powiat olkuski;35702.0;30965;-13.27;Spadek
+1213000;Powiat oświęcimski;257875.0;270570;4.92;Wzrost
+1214000;Powiat proszowicki;8933.0;8418;-5.77;Spadek
+1215000;Powiat suski;187287.0;201788;7.74;Wzrost
+1216000;Powiat tarnowski;68080.0;72106;5.91;Wzrost
+1217000;Powiat tatrzański;3582522.0;3535564;-1.31;Spadek
+1218000;Powiat wadowicki;243167.0;233829;-3.84;Spadek
+1219000;Powiat wielicki;211318.0;208159;-1.49;Spadek
+1261000;Powiat m. Kraków;5741775.0;5444070;-5.18;Spadek
+1262000;Powiat m. Nowy Sącz;54447.0;49907;-8.34;Spadek
+1263000;Powiat m. Tarnów;79054.0;76605;-3.1;Spadek
+1401000;Powiat białobrzeski;17587.0;18793;6.86;Wzrost
+1402000;Powiat ciechanowski;50493.0;49359;-2.25;Spadek
+1403000;Powiat garwoliński;99163.0;102744;3.61;Wzrost
+1404000;Powiat gostyniński;10521.0;12599;19.75;Wzrost
+1405000;Powiat grodziski;91108.0;94753;4.0;Wzrost
+1406000;Powiat grójecki;118526.0;122362;3.24;Wzrost
+1407000;Powiat kozienicki;49041.0;54367;10.86;Wzrost
+1408000;Powiat legionowski;359431.0;370076;2.96;Wzrost
+1409000;Powiat lipski;2926.0;4169;42.48;Wzrost
+1410000;Powiat łosicki;10947.0;12605;15.15;Wzrost
+1411000;Powiat makowski;14959.0;15477;3.46;Wzrost
+1412000;Powiat miński;42368.0;44016;3.89;Wzrost
+1413000;Powiat mławski;8819.0;7862;-10.85;Spadek
+1414000;Powiat nowodworski;86912.0;84323;-2.98;Spadek
+1415000;Powiat ostrołęcki;14273.0;16732;17.23;Wzrost
+1416000;Powiat ostrowski;12552.0;11118;-11.42;Spadek
+1417000;Powiat otwocki;127033.0;125147;-1.48;Spadek
+1418000;Powiat piaseczyński;236651.0;228542;-3.43;Spadek
+1419000;Powiat płocki;31356.0;31215;-0.45;Spadek
+1420000;Powiat płoński;48735.0;48352;-0.79;Spadek
+1421000;Powiat pruszkowski;199723.0;212353;6.32;Wzrost
+1422000;Powiat przasnyski;7530.0;3892;-48.31;Spadek
+1423000;Powiat przysuski;0.0;25312;inf;Wzrost
+1424000;Powiat pułtuski;0.0;438;inf;Wzrost
+1425000;Powiat radomski;25807.0;29121;12.84;Wzrost
+1426000;Powiat siedlecki;44144.0;36828;-16.57;Spadek
+1427000;Powiat sierpecki;39127.0;39084;-0.11;Spadek
+1428000;Powiat sochaczewski;55791.0;56791;1.79;Wzrost
+1429000;Powiat sokołowski;4480.0;5158;15.13;Wzrost
+1430000;Powiat szydłowiecki;58162.0;55956;-3.79;Spadek
+1432000;Powiat warszawski zachodni;175663.0;197538;12.45;Wzrost
+1433000;Powiat węgrowski;105495.0;113099;7.21;Wzrost
+1434000;Powiat wołomiński;138733.0;144334;4.04;Wzrost
+1435000;Powiat wyszkowski;78724.0;74146;-5.82;Spadek
+1436000;Powiat zwoleński;0.0;35;inf;Wzrost
+1437000;Powiat żuromiński;0.0;0;;Spadek
+1438000;Powiat żyrardowski;127862.0;129145;1.0;Wzrost
+1461000;Powiat m. Ostrołęka;9586.0;12368;29.02;Wzrost
+1462000;Powiat m. Płock;107025.0;97598;-8.81;Spadek
+1463000;Powiat m. Radom;158151.0;158814;0.42;Wzrost
+1464000;Powiat m. Siedlce;125377.0;121234;-3.3;Spadek
+1465000;Powiat m. st. Warszawa;7461291.0;7318865;-1.91;Spadek
+1601000;Powiat brzeski;25908.0;30563;17.97;Wzrost
+1602000;Powiat głubczycki;5619.0;12182;116.8;Wzrost
+1603000;Powiat kędzierzyńsko-kozielski;51189.0;52867;3.28;Wzrost
+1604000;Powiat kluczborski;19502.0;20933;7.34;Wzrost
+1605000;Powiat krapkowicki;40067.0;30870;-22.95;Spadek
+1606000;Powiat namysłowski;39543.0;37445;-5.31;Spadek
+1607000;Powiat nyski;184882.0;199991;8.17;Wzrost
+1608000;Powiat oleski;24942.0;22890;-8.23;Spadek
+1609000;Powiat opolski;55749.0;56897;2.06;Wzrost
+1610000;Powiat prudnicki;28610.0;30631;7.06;Wzrost
+1611000;Powiat strzelecki;54896.0;51550;-6.1;Spadek
+1661000;Powiat m. Opole;176747.0;192346;8.83;Wzrost
+1801000;Powiat bieszczadzki;262369.0;299411;14.12;Wzrost
+1802000;Powiat brzozowski;6741.0;9574;42.03;Wzrost
+1803000;Powiat dębicki;71571.0;77457;8.22;Wzrost
+1804000;Powiat jarosławski;148568.0;149456;0.6;Wzrost
+1805000;Powiat jasielski;12640.0;13649;7.98;Wzrost
+1806000;Powiat kolbuszowski;0.0;1049;inf;Wzrost
+1807000;Powiat krośnieński;552812.0;529088;-4.29;Spadek
+1808000;Powiat leżajski;12705.0;15299;20.42;Wzrost
+1809000;Powiat lubaczowski;236842.0;230450;-2.7;Spadek
+1810000;Powiat łańcucki;61918.0;56678;-8.46;Spadek
+1811000;Powiat mielecki;63858.0;61680;-3.41;Spadek
+1812000;Powiat niżański;15872.0;14947;-5.83;Spadek
+1813000;Powiat przemyski;42264.0;43394;2.67;Wzrost
+1814000;Powiat przeworski;15693.0;15194;-3.18;Spadek
+1815000;Powiat ropczycko-sędziszowski;63582.0;60544;-4.78;Spadek
+1816000;Powiat rzeszowski;259025.0;216752;-16.32;Spadek
+1817000;Powiat sanocki;69027.0;74707;8.23;Wzrost
+1818000;Powiat stalowowolski;105669.0;104148;-1.44;Spadek
+1819000;Powiat strzyżowski;0.0;6969;inf;Wzrost
+1820000;Powiat tarnobrzeski;50241.0;46497;-7.45;Spadek
+1821000;Powiat leski;864112.0;883028;2.19;Wzrost
+1861000;Powiat m. Krosno;48356.0;47496;-1.78;Spadek
+1862000;Powiat m. Przemyśl;95583.0;90747;-5.06;Spadek
+1863000;Powiat m. Rzeszów;493759.0;467182;-5.38;Spadek
+1864000;Powiat m. Tarnobrzeg;31385.0;32805;4.52;Wzrost
+2001000;Powiat augustowski;228906.0;231007;0.92;Wzrost
+2002000;Powiat białostocki;95554.0;95501;-0.06;Spadek
+2003000;Powiat bielski;24852.0;5806;-76.64;Spadek
+2004000;Powiat grajewski;19794.0;19017;-3.93;Spadek
+2005000;Powiat hajnowski;98181.0;109873;11.91;Wzrost
+2006000;Powiat kolneński;0.0;625;inf;Wzrost
+2007000;Powiat łomżyński;30786.0;31702;2.98;Wzrost
+2008000;Powiat moniecki;17905.0;19605;9.49;Wzrost
+2009000;Powiat sejneński;31750.0;35387;11.46;Wzrost
+2010000;Powiat siemiatycki;67955.0;68664;1.04;Wzrost
+2011000;Powiat sokólski;14360.0;17666;23.02;Wzrost
+2012000;Powiat suwalski;52770.0;54256;2.82;Wzrost
+2013000;Powiat wysokomazowiecki;16231.0;17313;6.67;Wzrost
+2014000;Powiat zambrowski;0.0;4036;inf;Wzrost
+2061000;Powiat m. Białystok;380591.0;388676;2.12;Wzrost
+2062000;Powiat m. Łomża;46042.0;50070;8.75;Wzrost
+2063000;Powiat m. Suwałki;95304.0;96064;0.8;Wzrost
+2201000;Powiat bytowski;63537.0;74910;17.9;Wzrost
+2202000;Powiat chojnicki;139438.0;143474;2.89;Wzrost
+2203000;Powiat człuchowski;112378.0;119563;6.39;Wzrost
+2204000;Powiat gdański;147926.0;176770;19.5;Wzrost
+2205000;Powiat kartuski;209769.0;217490;3.68;Wzrost
+2206000;Powiat kościerski;288638.0;302504;4.8;Wzrost
+2207000;Powiat kwidzyński;38612.0;33599;-12.98;Spadek
+2208000;Powiat lęborski;596734.0;626386;4.97;Wzrost
+2209000;Powiat malborski;56462.0;65437;15.9;Wzrost
+2210000;Powiat nowodworski;683329.0;782417;14.5;Wzrost
+2211000;Powiat pucki;1600921.0;1678519;4.85;Wzrost
+2212000;Powiat słupski;1162365.0;1168082;0.49;Wzrost
+2213000;Powiat starogardzki;95455.0;104427;9.4;Wzrost
+2214000;Powiat tczewski;72189.0;67458;-6.55;Spadek
+2215000;Powiat wejherowski;192964.0;198286;2.76;Wzrost
+2216000;Powiat sztumski;9931.0;3761;-62.13;Spadek
+2261000;Powiat m. Gdańsk;3047020.0;3238419;6.28;Wzrost
+2262000;Powiat m. Gdynia;420878.0;456862;8.55;Wzrost
+2263000;Powiat m. Słupsk;53606.0;47715;-10.99;Spadek
+2264000;Powiat m. Sopot;986713.0;994567;0.8;Wzrost
+2401000;Powiat będziński;105860.0;100417;-5.14;Spadek
+2402000;Powiat bielski;504475.0;503963;-0.1;Spadek
+2403000;Powiat cieszyński;2052326.0;2001149;-2.49;Spadek
+2404000;Powiat częstochowski;26671.0;26700;0.11;Wzrost
+2405000;Powiat gliwicki;57416.0;55899;-2.64;Spadek
+2406000;Powiat kłobucki;38562.0;36818;-4.52;Spadek
+2407000;Powiat lubliniecki;72888.0;80456;10.38;Wzrost
+2408000;Powiat mikołowski;0.0;1153;inf;Wzrost
+2409000;Powiat myszkowski;72114.0;64650;-10.35;Spadek
+2410000;Powiat pszczyński;78379.0;74789;-4.58;Spadek
+2411000;Powiat raciborski;79523.0;77596;-2.42;Spadek
+2412000;Powiat rybnicki;23734.0;26255;10.62;Wzrost
+2413000;Powiat tarnogórski;123502.0;121629;-1.52;Spadek
+2414000;Powiat bieruńsko-lędziński;0.0;63;inf;Wzrost
+2415000;Powiat wodzisławski;27895.0;31839;14.14;Wzrost
+2416000;Powiat zawierciański;188786.0;188178;-0.32;Spadek
+2417000;Powiat żywiecki;372860.0;368650;-1.13;Spadek
+2461000;Powiat m. Bielsko-Biała;231315.0;231159;-0.07;Spadek
+2462000;Powiat m. Bytom;113516.0;106620;-6.07;Spadek
+2463000;Powiat m. Chorzów;86405.0;87337;1.08;Wzrost
+2464000;Powiat m. Częstochowa;270923.0;281581;3.93;Wzrost
+2465000;Powiat m. Dąbrowa Górnicza;84368.0;81480;-3.42;Spadek
+2466000;Powiat m. Gliwice;243795.0;233671;-4.15;Spadek
+2467000;Powiat m. Jastrzębie-Zdrój;19101.0;19633;2.79;Wzrost
+2468000;Powiat m. Jaworzno;57677.0;57353;-0.56;Spadek
+2469000;Powiat m. Katowice;812731.0;816679;0.49;Wzrost
+2470000;Powiat m. Mysłowice;0.0;0;;Spadek
+2471000;Powiat m. Piekary Śląskie;46298.0;44814;-3.21;Spadek
+2472000;Powiat m. Ruda Śląska;33595.0;16376;-51.25;Spadek
+2473000;Powiat m. Rybnik;35457.0;35832;1.06;Wzrost
+2474000;Powiat m. Siemianowice Śląskie;0.0;18630;inf;Wzrost
+2475000;Powiat m. Sosnowiec;86141.0;82495;-4.23;Spadek
+2476000;Powiat m. Świętochłowice;0.0;126;inf;Wzrost
+2477000;Powiat m. Tychy;101397.0;93556;-7.73;Spadek
+2478000;Powiat m. Zabrze;117483.0;113791;-3.14;Spadek
+2479000;Powiat m. Żory;31323.0;30066;-4.01;Spadek
+2601000;Powiat buski;818058.0;793588;-2.99;Spadek
+2602000;Powiat jędrzejowski;38120.0;37539;-1.52;Spadek
+2603000;Powiat kazimierski;0.0;628;inf;Wzrost
+2604000;Powiat kielecki;294937.0;311600;5.65;Wzrost
+2605000;Powiat konecki;40047.0;51481;28.55;Wzrost
+2606000;Powiat opatowski;25991.0;27284;4.97;Wzrost
+2607000;Powiat ostrowiecki;45438.0;55847;22.91;Wzrost
+2608000;Powiat pińczowski;11115.0;14051;26.41;Wzrost
+2609000;Powiat sandomierski;76860.0;80514;4.75;Wzrost
+2610000;Powiat skarżyski;65929.0;62208;-5.64;Spadek
+2611000;Powiat starachowicki;67185.0;63023;-6.19;Spadek
+2612000;Powiat staszowski;35586.0;38964;9.49;Wzrost
+2613000;Powiat włoszczowski;0.0;2582;inf;Wzrost
+2661000;Powiat m. Kielce;364961.0;397084;8.8;Wzrost
+2801000;Powiat bartoszycki;39475.0;40813;3.39;Wzrost
+2802000;Powiat braniewski;18189.0;17564;-3.44;Spadek
+2803000;Powiat działdowski;31863.0;33422;4.89;Wzrost
+2804000;Powiat elbląski;33705.0;34742;3.08;Wzrost
+2805000;Powiat ełcki;84512.0;90051;6.55;Wzrost
+2806000;Powiat giżycki;432692.0;537131;24.14;Wzrost
+2807000;Powiat iławski;128113.0;132025;3.05;Wzrost
+2808000;Powiat kętrzyński;43045.0;43794;1.74;Wzrost
+2809000;Powiat lidzbarski;76606.0;67830;-11.46;Spadek
+2810000;Powiat mrągowski;691073.0;723712;4.72;Wzrost
+2811000;Powiat nidzicki;24102.0;22419;-6.98;Spadek
+2812000;Powiat nowomiejski;11632.0;10508;-9.66;Spadek
+2813000;Powiat olecki;41457.0;42507;2.53;Wzrost
+2814000;Powiat olsztyński;391289.0;401186;2.53;Wzrost
+2815000;Powiat ostródzki;252123.0;289827;14.95;Wzrost
+2816000;Powiat piski;163304.0;163892;0.36;Wzrost
+2817000;Powiat szczycieński;123698.0;128481;3.87;Wzrost
+2818000;Powiat gołdapski;120818.0;124349;2.92;Wzrost
+2819000;Powiat węgorzewski;35861.0;37830;5.49;Wzrost
+2861000;Powiat m. Elbląg;102402.0;101630;-0.75;Spadek
+2862000;Powiat m. Olsztyn;367352.0;392378;6.81;Wzrost
+3001000;Powiat chodzieski;41998.0;36335;-13.48;Spadek
+3002000;Powiat czarnkowsko-trzcianecki;27747.0;30753;10.83;Wzrost
+3003000;Powiat gnieźnieński;121385.0;133198;9.73;Wzrost
+3004000;Powiat gostyński;23112.0;20658;-10.62;Spadek
+3005000;Powiat grodziski;44057.0;41925;-4.84;Spadek
+3006000;Powiat jarociński;74200.0;76537;3.15;Wzrost
+3007000;Powiat kaliski;14412.0;14581;1.17;Wzrost
+3008000;Powiat kępiński;14252.0;17260;21.11;Wzrost
+3009000;Powiat kolski;29181.0;29807;2.15;Wzrost
+3010000;Powiat koniński;261568.0;282862;8.14;Wzrost
+3011000;Powiat kościański;21787.0;23932;9.85;Wzrost
+3012000;Powiat krotoszyński;25400.0;26696;5.1;Wzrost
+3013000;Powiat leszczyński;147387.0;147399;0.01;Wzrost
+3014000;Powiat międzychodzki;111804.0;107854;-3.53;Spadek
+3015000;Powiat nowotomyski;104016.0;104356;0.33;Wzrost
+3016000;Powiat obornicki;16974.0;15745;-7.24;Spadek
+3017000;Powiat ostrowski;101466.0;105405;3.88;Wzrost
+3018000;Powiat ostrzeszowski;24020.0;21920;-8.74;Spadek
+3019000;Powiat pilski;114806.0;109140;-4.94;Spadek
+3020000;Powiat pleszewski;36896.0;42093;14.09;Wzrost
+3021000;Powiat poznański;339964.0;353081;3.86;Wzrost
+3022000;Powiat rawicki;16491.0;14689;-10.93;Spadek
+3023000;Powiat słupecki;75089.0;88614;18.01;Wzrost
+3024000;Powiat szamotulski;24392.0;29219;19.79;Wzrost
+3025000;Powiat średzki;74770.0;70072;-6.28;Spadek
+3026000;Powiat śremski;39983.0;39895;-0.22;Spadek
+3027000;Powiat turecki;19036.0;20059;5.37;Wzrost
+3028000;Powiat wągrowiecki;62658.0;62535;-0.2;Spadek
+3029000;Powiat wolsztyński;86441.0;109759;26.98;Wzrost
+3030000;Powiat wrzesiński;80509.0;81219;0.88;Wzrost
+3031000;Powiat złotowski;21421.0;23635;10.34;Wzrost
+3061000;Powiat m. Kalisz;42906.0;46688;8.81;Wzrost
+3062000;Powiat m. Konin;14379.0;13400;-6.81;Spadek
+3063000;Powiat m. Leszno;35590.0;30222;-15.08;Spadek
+3064000;Powiat m. Poznań;1395892.0;1463976;4.88;Wzrost
+3201000;Powiat białogardzki;50094.0;48667;-2.85;Spadek
+3202000;Powiat choszczeński;6198.0;7217;16.44;Wzrost
+3203000;Powiat drawski;141430.0;149122;5.44;Wzrost
+3204000;Powiat goleniowski;64752.0;65295;0.84;Wzrost
+3205000;Powiat gryficki;1500641.0;1586281;5.71;Wzrost
+3206000;Powiat gryfiński;95634.0;90998;-4.85;Spadek
+3207000;Powiat kamieński;1501196.0;1681843;12.03;Wzrost
+3208000;Powiat kołobrzeski;5856296.0;5982544;2.16;Wzrost
+3209000;Powiat koszaliński;1487078.0;1431188;-3.76;Spadek
+3210000;Powiat myśliborski;55808.0;55484;-0.58;Spadek
+3211000;Powiat policki;63367.0;63519;0.24;Wzrost
+3212000;Powiat pyrzycki;5693.0;2252;-60.44;Spadek
+3213000;Powiat sławieński;1387041.0;1448863;4.46;Wzrost
+3214000;Powiat stargardzki;72627.0;81035;11.58;Wzrost
+3215000;Powiat szczecinecki;55764.0;57110;2.41;Wzrost
+3216000;Powiat świdwiński;65268.0;65704;0.67;Wzrost
+3217000;Powiat wałecki;107905.0;111890;3.69;Wzrost
+3218000;Powiat łobeski;19084.0;19447;1.9;Wzrost
+3261000;Powiat m. Koszalin;115503.0;122672;6.21;Wzrost
+3262000;Powiat m. Szczecin;1021765.0;1048188;2.59;Wzrost
+3263000;Powiat m. Świnoujście;1936043.0;1966083;1.55;Wzrost
